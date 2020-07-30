@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.evaluation.BinaryClassificationEvaluator","timestamp":1596016426607,"sparkVersion":"2.4.6","uid":"BinaryClassificationEvaluator_4f1f3cff82a4","paramMap":{"rawPredictionCol":"probability","labelCol":"INFANT_ALIVE_AT_REPORT"},"defaultParamMap":{"rawPredictionCol":"rawPrediction","metricName":"areaUnderROC","labelCol":"label"}}
